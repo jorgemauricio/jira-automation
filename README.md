@@ -1,7 +1,6 @@
 # jira-automation
 ---
 
-```markdown
 # 🚀 Jira Story Automator
 
 A professional Python-based automation tool to bulk-create structured **Jira User Stories** from Excel files. Designed for Product Managers and Data Scientists who need to maintain a high-quality backlog with speed and precision.
@@ -23,7 +22,7 @@ A professional Python-based automation tool to bulk-create structured **Jira Use
    git clone [https://github.com/your-username/jira-story-automator.git](https://github.com/your-username/jira-story-automator.git)
    cd jira-story-automator
 
-```
+
 
 2. **Install dependencies:**
 ```bash
