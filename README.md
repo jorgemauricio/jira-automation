@@ -19,7 +19,7 @@ A professional Python-based automation tool to bulk-create structured **Jira Use
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/jira-story-automator.git](https://github.com/your-username/jira-story-automator.git)
+   git clone [https://github.com/jorgemauricio/jira-automation.git](https://github.com/jorgemauricio/jira-automation.git)
    cd jira-story-automator
 
 
@@ -101,13 +101,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ```
 
----
-
-### ¿Cómo guardarlo?
-1. Crea un archivo llamado `README.md` en la carpeta raíz de tu proyecto.
-2. Pega el contenido de arriba.
-3. Cuando lo subas a GitHub, se verá automáticamente formateado con tablas y estilos.
-
-¿Te gustaría que también te ayude a redactar el archivo de **LICENSE** (por ejemplo, una licencia MIT) para que el repositorio esté 100% completo?
-
-```
